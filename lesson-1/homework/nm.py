@@ -15,7 +15,7 @@ print('The length of circle is =', C)
 #3
 a=123
 b=123
-c=a+b
+c=(a+b)/2
 print('Their mean is = ', c)
 
 #4
@@ -25,4 +25,7 @@ c=a+b
 d=a*b
 e=a**2
 f=b**2
-print('Answers:', c, d, e, f )
+print('Sum=', c)
+print('Product=', d)
+print('Square=', e)
+print('Square=', f)
